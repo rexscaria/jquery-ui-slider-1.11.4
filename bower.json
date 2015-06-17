@@ -1,5 +1,7 @@
 {
   "name": "jquery-ui-slider",
+  "author": "Arun Scaria",
+  "email": "arunscaria91@gmail.com",
   "version": "1.11.4",
   "main": [
     "jquery-ui.js",
